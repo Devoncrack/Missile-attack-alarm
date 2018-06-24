@@ -1,0 +1,27 @@
+﻿Credits for the artworks used at "Missile Alert Joke" app
+App URL: https://www.grifare.net/examples/jokes/missile-alert/index
+
+The rotating roundel that appears on index and missile-alert pages
+Title: Roundel of North Korea
+Retrieved from: https://commons.wikimedia.org/wiki/File:Roundel_of_North_Korea.svg
+Author:	D. V. Wiebe
+
+The line art face figure that appears on alert-cancel page 
+Title: NO Face
+by LEMMiNO
+Retrieved from: https://lemmino.deviantart.com/art/NO-Face-in-HD-376246496
+Author: David Wångstedt 
+Artist | Hobbyist | Film & Animation
+URL: lemmi.no
+
+The line art that appears on cancel-hacked page 
+Title: Kim Jong-un
+Created by potrace 1.11, written by Peter Selinger 2001-2013
+Credit: pixabay.com
+
+Laughters played on cancel-hacked page 
+Title: Evil Laughter
+Retrieved from: https://en.wikipedia.org/wiki/File:Evillaugh.ogg
+Author: Ondra Krist
+This file is licensed under the Creative Commons Attribution-Share Alike 3.0 Unported license
+
